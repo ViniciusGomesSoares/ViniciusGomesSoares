@@ -9,8 +9,8 @@
 #
 
 
-<p align="center">Estudante de Sistema de Informações na Faculdade Imapcta Tecnologia. Atualmente trabalho com analise de dados e estudo python, desenvolvimeto web, java e angular.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Sistema de Informação na Faculdade Impacta Tecnologia. Atualmente trabalho com análise de dados e utilizado Python, estudo desenvolvimento web e Java.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de Tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
 
